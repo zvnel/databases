@@ -1,0 +1,36 @@
+a)
+SELECT book_name, book_rating
+FROM 
+  BOOKS JOIN BOOKS_INFO 
+  ON BOOKS.book_id = BOOKS_INFO.book_id
+ORDER BY length DESC
+LIMIT 1;
+
+b)
+SELECT lastname
+FROM AUTHORS 
+JOIN BOOKS_INFO ON AUTHORS.author_id = BOOKS_INFO.author_id
+ORDER BY BOOKS_INFO.book_rating DESC
+LIMIT 1;
+
+c)
+SELECT publication_date
+FROM PUBLICATION
+GROUP BY publication_date
+ORDER BY COUNT(*) DESC
+LIMIT 1;
+
+d)
+SELECT publication_house
+FROM PUBLICATION
+GROUP BY publication_house
+ORDER BY COUNT(*) DESC
+LIMIT 1;
+
+e)
+SELECT book_name
+FROM BOOKS 
+JOIN BOOKS_INFO ON BOOKS.book_id = BOOKS_INFO.book_id
+WHERE BOOKS_INFO.book_genre = 'Fantasy';
+
+
