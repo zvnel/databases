@@ -1,0 +1,43 @@
+CREATE TABLE BOOKS (
+	book_id INTEGER PRIMARY KEY,
+	book_name VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE AUTHORS
+(
+ 	author_id INTEGER PRIMARY KEY,
+ 	firstname VARCHAR(255) NOT NULL,
+	lastname VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE SERIES
+(
+ 	serie_id INTEGER PRIMARY KEY,
+ 	series_name VARCHAR(255),
+	books_in_series VARCHAR(255),
+	year_of_publication VARCHAR(255)
+);
+
+CREATE TABLE BOOKS_INFO
+(
+	book_id INTEGER,
+ 	author_id INTEGER NOT NULL,
+	book_genre VARCHAR(255) NOT NULL,
+	book_rating DECIMAL(10, 2) NOT NULL,
+	length INTEGER NOT NULL,
+	serieS_id INTEGER NULL,
+	FOREIGN KEY (book_id) REFERENCES BOOKS (book_id),
+	FOREIGN KEY (author_id) REFERENCES AUTHORS (author_id),
+	FOREIGN KEY (serieS_id) REFERENCES SERIES (serie_id)
+);
+
+CREATE TABLE PUBLICATION
+(
+ 	book_id INTEGER,
+ 	publication_date DATE NOT NULL,
+ 	publication_house VARCHAR(255) NOT NULL,
+	FOREIGN KEY (book_id) REFERENCES BOOKS (book_id)
+);
+
+
+
