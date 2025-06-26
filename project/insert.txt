@@ -1,0 +1,990 @@
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (001, 'The Bandit Queens');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (002, 'The Villa');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (003, 'The Stolen Heir');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (004, 'Age of Vice');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (005, 'The House in the Pines');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (006, 'Queen of Thieves');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (007, 'Sam');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (008, 'Code Name Blue Wren');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (009, 'Good for a Girl');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (010, 'Spare');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (011, 'All the Dangerous Things');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (012, 'Hell Bent');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (013, 'The Nazi Conspiracy');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (014, 'The In-Between');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (015, 'Lunar Love');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (016, 'What Lies in the Woods');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (017, 'Locust Lane');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (018, 'Independence');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (019, 'How to Sell a Haunted House');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (020, 'Master Slave Husband Wife');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (021, 'The Mitford Affair');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (022, 'The Reunion');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (023, 'Georgie, All Along');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (024, 'Exiles');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (025, 'Maame');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (026, 'River Sing Me home');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (027, 'Someone Else’s Shoes');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (028, 'The House of Eve');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (029, 'Code Name Sapphire');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (030, 'Cold People');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (031, 'On the Savage Side');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (032, 'The Housemaid’s Secret');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (033, 'I Have Some Questions For You');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (034, 'The Porcelain Moon');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (035, 'Two Weeks Notice');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (036, 'Stars in an Italian Sky');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (037, 'The Crane Husband');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (038, 'The Angel Maker');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (039, 'A Day of Fallen Night');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (040, 'The Adventures of Amina al-Sirafi');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (041, 'Mothered');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (042, 'Weyward');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (043, 'What Have We Done');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (044, 'Maybe Next Time');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (045, 'Rootless');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (046, 'Hello Beautiful');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (047, 'Stateless');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (048, 'I Will Find You');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (049, 'The Last Russian Doll');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (050, '48 Clues Into the Disappearance of My Sister');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (051, 'The London Séance Society');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (052, 'Poverty, by America');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (053, 'Two Wars and a Wedding');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (054, 'Outlive');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (055, 'The Mostly True Story of Tanner & Louise');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (056, 'Community Board');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (057, 'Lone Women');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (058, 'Hang the Moon');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (059, 'Homecoming');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (060, 'The Soulmate');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (061, 'Before We Were Innocent');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (062, 'The House is on Fire');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (063, 'Coronation Year');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (064, 'Romantic Comedy');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (065, 'Dirty Laundry');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (066, 'The Wisdom of the Bullfrog');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (067, 'Camp Zero');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (068, 'Divine Rivals');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (069, 'Silver in the Bone');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (070, 'You Could Make This Place Beautiful');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (071, 'Symphony of Secrets');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (072, 'The Golden Doves');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (073, 'Life in Five senses');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (074, 'The Wager');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (075, 'Happy Place');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (076, 'With My Little Eye');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (077, 'In the Lives of Puppets');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (078, 'Honey, Baby, Mine');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (079, 'The Half Moon');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (080, 'Did You Hear About Kitty Karr?');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (081, 'The Nigerwife');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (082, 'The Covenant of Water');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (083, 'Chain-Gang All-Stars');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (084, 'Paper Names');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (085, 'Warrior Girl Unearthed');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (086, 'Meet Me at the Lake');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (087, 'The Daydreams');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (088, 'The Ferryman');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (089, 'No Two Persons');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (090, 'The Making of Another Major Motion Picture Masterpiece');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (091, 'The Collected Regrets of Clover');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (092, 'Yellowface');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (093, 'The True Love Experiment');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (094, 'Fractal Noise');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (095, 'The Senator’s Wife');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (096, 'Someone Else’s Bucket List');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (097, 'The Celebrants');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (098, 'Ink Blood Sister Scribe');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (099, 'The Wishing Game');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (100, 'The Paris Daughter');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (101, 'Lady Tan’s Circle of Women');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (102, 'Pageboy');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (103, 'Cassandra in Reverse');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (104, 'The Wind Knows My Name');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (105, 'All the Sinners Bleed');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (106, 'The Five-Star Weekend');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (107, 'Love, Theoretically');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (108, 'The Spectacular');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (109, 'She Started It');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (110, 'Zero Days');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (111, 'The Whispers');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (112, 'The Only One Left');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (113, 'The Spare Room');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (114, 'The Seven Year Slip');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (115, 'The Beach at Summerly');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (116, 'The Art Thief');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (117, 'Banyan Moon');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (118, 'The First Ladies');
+INSERT INTO BOOKS(book_id, book_name)
+VALUES (119, 'Save What’s Left');
+
+***
+
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (001, '2023-01-03', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (002, '2023-01-03', 'St. Martins Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (003, '2023-01-03', 'Little, Brown young Readers');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (004, '2023-01-03', 'Riverhead');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (005, '2023-01-03', 'Dutton');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (006, '2023-01-03', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (007, '2023-01-03', 'The Dial Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (008, '2023-01-03', 'Hanover Square Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (009, '2023-01-10', 'Penguin Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (010, '2023-01-10', 'Random House');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (011, '2023-01-10', 'Minoyaur Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (012, '2023-01-10', 'Flatiron Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (013, '2023-01-10', 'Flatiron Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (014, '2023-01-10', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (015, '2023-01-10', 'Forever');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (016, '2023-01-17', 'Flatiron Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (017, '2023-01-17', 'Celadon Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (018, '2023-01-17', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (019, '2023-01-17', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (020, '2023-01-17', 'Simon&Schuster');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (021, '2023-01-17', 'Sourcebooks Landmark');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (022, '2023-01-17', 'Atria Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (023, '2023-01-24', 'Paperback');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (024, '2023-01-31', 'Macmillan');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (025, '2023-01-31', 'St. Martins Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (026, '2023-01-31', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (027, '2023-02-07', 'Pamela Dorman Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (028, '2023-02-07', 'Simon&Schuster');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (029, '2023-02-07', 'Park Row');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (030, '2023-02-07', 'Scribner');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (031, '2023-02-14', 'W&N');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (032, '2023-02-24', 'Bookouture');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (033, '2023-02-21', 'Viking');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (034, '2023-02-21', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (035, '2023-02-21', 'Hay House Business');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (036, '2023-02-20', 'G. P. Putnams Sons');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (037, '2023-02-28', 'Tordotcom');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (038, '2023-02-28', 'Celadon Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (039, '2023-02-28', 'Bloomsbury Publishing');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (040, '2023-02-28', 'Harper Voyager');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (041, '2023-03-01', 'Thomas&Mercer');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (042, '2023-03-07', 'St. Martins Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (043, '2023-03-07', 'Minotaur Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (044, '2023-03-07', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (045, '2023-03-07', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (046, '2023-03-14', 'The Dial Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (047, '2023-03-14', 'Little, Brown young Readers');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (048, '2023-03-14', 'Grand Central Publishing');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (049, '2023-03-14', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (050, '2023-03-14', 'Mysterious Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (051, '2023-03-21', 'Park Row');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (052, '2023-03-21', 'Crown');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (053, '2023-03-21', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (054, '2023-03-28', 'Harmony');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (055, '2023-03-28', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (056, '2023-03-28', 'Mariner Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (057, '2023-03-28', 'One World');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (058, '2023-03-28', 'Simon&Schuster');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (059, '2023-04-04', 'Mariner Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (060, '2023-04-04', 'St. Martins Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (061, '2023-04-04', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (062, '2023-04-04', 'Simon&Schuster');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (063, '2023-04-04', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (064, '2023-04-04', 'Random House');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (065, '2023-04-04', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (066, '2023-04-04', 'Grand Central Publishing');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (067, '2023-04-04', 'Atria Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (068, '2023-04-04', 'Wednesday Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (069, '2023-04-04', 'Knopf Books for Young Readers');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (070, '2023-04-11', 'Atria Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (071, '2023-04-18', 'Grand Central Publishing');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (072, '2023-04-18', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (073, '2023-04-18', 'Crown');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (074, '2023-04-18', 'Doubleday');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (075, '2023-04-25', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (076, '2023-04-25', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (077, '2023-04-25', 'Tor Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (078, '2023-04-25', 'Grand Central Publishing');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (079, '2023-05-02', 'Scribner');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (080, '2023-05-02', 'Henry Holt and Co');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (081, '2023-05-02', 'Atria Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (082, '2023-05-02', 'Grove Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (083, '2023-05-02', 'Pantheon');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (084, '2023-05-02', 'Hanover Square Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (085, '2023-05-02', 'Henry Holt and Co');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (086, '2023-05-02', 'Viking');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (087, '2023-05-02', 'Berkley');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (088, '2023-05-02', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (089, '2023-05-02', 'St. Martins Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (090, '2023-05-09', 'Random House');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (091, '2023-05-09', 'St. Martins Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (092, '2023-05-16', 'The Borough Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (093, '2023-05-16', 'Gallery Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (094, '2023-05-16', 'Tor Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (095, '2023-05-23', 'Bantam');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (096, '2023-05-23', 'Kensington Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (097, '2023-05-30', 'G. P. Putnams Sons');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (098, '2023-05-30', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (099, '2023-05-30', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (100, '2023-06-06', 'Gallery Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (101, '2023-06-06', 'Scribner');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (102, '2023-06-06', 'Flatiron Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (103, '2023-06-06', 'MIRA');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (104, '2023-06-06', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (105, '2023-06-06', 'Flatiron Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (106, '2023-06-13', 'Little, Brown young Readers');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (107, '2023-06-13', 'Little, Brown young Readers');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (108, '2023-06-13', 'Dutton');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (109, '2023-06-13', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (110, '2023-06-20', 'Simon&Schuster');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (111, '2023-06-20', 'Penguin Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (112, '2023-06-20', 'Dutton');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (113, '2023-06-20', 'Ballantine Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (114, '2023-06-27', 'Paperback');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (115, '2023-06-27', 'William Morrow');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (116, '2023-06-27', 'Knopf ');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (117, '2023-06-27', 'Mariner Books');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (118, '2023-06-27', 'Penguin Press');
+INSERT INTO PUBLICATION(book_id, publication_date, publication_house)
+VALUES (119, '2023-06-27', 'Anchor Books');
+
+
+***
+
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (001, 221, 'Contemporary Fiction', 3.98, 342);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (002, 222, 'Mystery & Thriller', 3.64, 279);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (003, 223, 'Fantasy', 3.99, 11, 901);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (004, 224, 'Contemporary Fiction', 3.61, 544);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (005, 225, 'Contemporary Fiction', 3.11, 321);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (006, 226, 'Historical Fiction', 3.48, 323, 902);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (007, 227, 'Contemporary Fiction', 3.77, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (008, 228, 'Nonfiction', 3.77, 352);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (009, 229, 'Nonfiction', 4.48, 288);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (010, 230, 'Nonfiction', 3.86, 410);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (011, 231, 'Mystery & Thriller', 4.08, 326);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (012, 232, 'Fantasy', 4.14, 484, 903);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (013, 233, 'Nonfiction', 4.17, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (014, 234, 'Nonfiction', 4.52, 288);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (015, 235, 'Romance', 3.49, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (016, 236, 'Mystery & Thriller', 3.96, 322);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (017, 237, 'Mystery & Thriller', 3.57, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (018, 238, 'Historical Fiction', 4.11, 288);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (019, 239, 'Horror', 3.69, 419);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (020, 240, 'Nonfiction', 4.00, 416);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (021, 241, 'Historical Fiction', 3.70, 352);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (022, 242, 'Romance', 3.50, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (023, 243, 'Romance', 3.81, 340);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (024, 244, 'Mystery & Thriller', 4.05, 420, 904);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (025, 245, 'Contemporary Fiction', 4.07, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (026, 246, 'Historical Fiction', 4.01, 322);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (027, 247, 'Contemporary Fiction', 3.96, 438);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (028, 248, 'Historical Fiction', 4.26, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (029, 249, 'Historical Fiction', 3.87, 368);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (030, 250, 'Science Fiction', 3.52, 368);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (031, 251, 'Contemporary Fiction', 4.05, 464);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (032, 252, 'Mystery & Thriller', 4.26, 318, 905);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (033, 253, 'Mystery & Thriller', 3.61, 448);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (034, 254, 'Historical Fiction', 3.89, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (035, 255, 'Nonfiction', 4.18, 304);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (036, 256, 'Historical Fiction', 3.90, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (037, 257, 'Fantasy', 3.89, 118);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (038, 258, 'Mystery & Thriller', 3.45, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (039, 259, 'Fantasy', 4.38, 868, 906);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (040, 260, 'Fantasy', 4.29, 483, 907);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (041, 261, 'Mystery & Thriller', 3.31, 317);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (042, 262, 'Historical Fiction', 4.08, 329);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (043, 263, 'Mystery & Thriller', 3.54, 358);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (044, 264, 'Contemporary Fiction', 3.71, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (045, 265, 'Contemporary Fiction', 3.83, 346);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (046, 266, 'Contemporary Fiction', 4.17, 416);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (047, 267, 'Historical Fiction', 3.92, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (048, 268, 'Mystery & Thriller', 4.17, 329);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (049, 269, 'Historical Fiction', 3.80, 406);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (050, 270, 'Mystery & Thriller', 2.99, 288);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (051, 271, 'Historical Fiction', 3.48, 350);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (052, 272, 'Nonfiction', 4.28, 284);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (053, 273, 'Historical Fiction', 3.90, 435);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (054, 274, 'Nonfiction', 4.38, 496);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (055, 275, 'Contemporary Fiction', 4.06, 337);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (056, 276, 'Contemporary Fiction', 3.34, 272);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (057, 277, 'Horror', 3.72, 285);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (058, 278, 'Historical Fiction', 3.83, 13);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (059, 279, 'Historical Fiction', 4.08, 560);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (060, 280, 'Mystery & Thriller', 3.81, 327);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (061, 281, 'Mystery & Thriller', 3.46, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (062, 282, 'Historical Fiction', 4.10, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (063, 283, 'Historical Fiction', 3.94, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (064, 284, 'Romance', 3.66, 309);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (065, 285, 'Mystery & Thriller', 3.27, 304);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (066, 286, 'Nonfiction', 4.42, 224);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (067, 287, 'Science Fiction', 3.21, 304);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (068, 288, 'Young Adult Fantasy', 4.22, 357, 908);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (069, 289, 'Young Adult Fantasy', 3.91, 480, 909);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (070, 290, 'Nonfiction', 4.10, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (071, 291, 'Mystery & Thriller', 3.99, 432);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (072, 292, 'Historical Fiction', 4.19, 528);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (073, 293, 'Nonfiction', 3.72, 272);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (074, 294, 'Nonfiction', 4.20, 331);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (075, 295, 'Romance', 4.01, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (076, 296, 'Mystery & Thriller', 3.32, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (077, 297, 'Fantasy', 3.94, 432);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (078, 298, 'Nonfiction', 3.92, 256);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (079, 299, 'Contemporary Fiction', 3.41, 304);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (080, 300, 'Historical Fiction', 3.76, 416);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (081, 301, 'Mystery & Thriller', 3.54, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (082, 302, 'Historical Fiction', 4.46, 724);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (083, 303, 'Dystopian Fiction', 4.14, 367);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (084, 304, 'Contemporary Fiction', 3.67, 288);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (085, 305, 'Young Adult Fiction', 4.34, 496);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (086, 306, 'Romance', 3.70, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (087, 307, 'Contemporary Fiction', 3.60, 368);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (088, 308, 'Science Fiction', 3.93, 538);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (089, 309, 'Contemporary Fiction', 4.10, 314);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (090, 310, 'Literary Fiction', 3.70, 448);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (091, 311, 'Contemporary Fiction', 4.18, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (092, 312, 'Contemporary Fiction', 3.79, 329);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (093, 313, 'Romance', 4.12, 416, 910);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length, series_id)
+VALUES (094, 314, 'Science Fiction', 3.45, 286, 911);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (095, 315, 'Mystery & Thriller', 3.78, 320);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (096, 316, 'Romance', 4.01, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (097, 317, 'Contemporary Fiction', 3.64, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (098, 318, 'Fantasy', 4.04, 416);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (099, 319, 'Contemporary Fiction', 4.10, 304);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (100, 320, 'Historical Fiction', 4.26, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (101, 321, 'Historical Fiction', 4.37, 368);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (102, 322, 'Nonfiction', 3.76, 271);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (103, 323, 'Science Fiction', 3.56, 362);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (104, 324, 'Literary Fiction', 4.03, 260);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (105, 325, 'Mystery & Thriller', 4.25, 341);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (106, 326, 'Contemporary Fiction', 4.07, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (107, 327, 'Romance', 4.12, 389);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (108, 328, 'Historical Fiction', 4.10, 368);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (109, 329, 'Mystery & Thriller', 3.57, 352);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (110, 330, 'Mystery & Thriller', 3.65, 384);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (111, 331, 'Contemporary Fiction', 3.84, 325);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (112, 332, 'Mystery & Thriller', 4.14, 398);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (113, 333, 'Mystery & Thriller', 3.10, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (114, 334, 'Romance', 4.25, 325);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (115, 335, 'Historical Fiction', 3.90, 368);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (116, 336, 'Nonfiction', 3.98, 240);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (117, 337, 'Historical Fiction', 3.92, 336);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (118, 338, 'Historical Fiction', 4.04, 400);
+INSERT INTO BOOKS_INFO(book_id, author_id, book_genre, book_rating, length)
+VALUES (119, 339, 'Contemporary Fiction', 3.06, 304);
+
+
+***
+
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (221, 'Parini', 'Shroff');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (222, 'Rachel', 'Hawkins');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (223, 'Holly', 'Black');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (224, 'Deepti', 'Kapoor');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (225, 'Ana', 'Reyes');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (226, 'Beezy', 'Marsh');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (227, 'Allegra', 'Goodman');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (228, 'Jim', 'Popkin');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (229, 'Lauren', 'Fleshman');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (230, 'Prince Harry', 'Duke of Sussex' );
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (231, 'Stacy', 'Willingham');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (232, 'Leigh', 'Bardugo');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (233, 'Brad&Josh', 'Meltzer&Mensch');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (234, 'Hadley', 'Vlahos');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (235, 'Lauren', 'Kung Jessen');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (236, 'Kate Alice', 'Marshall');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (237, 'Stephen', 'Amidon');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (238, 'Chitra Banerjee', 'Divakaruni');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (239, 'Grady', 'Hendrix');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (240, 'Ilyon', 'Woo');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (241, 'Marie', 'Benedict');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (242, 'Kayla', 'Olson');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (243, 'Kate', 'Clayborn');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (244, 'Jane', 'Harper');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (245, 'Jessica', 'George');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (246, 'Eleanor', 'Shearer');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (247, 'Jojo', 'Moyes');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (248, 'Sadeqa', 'Johnson');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (249, 'Pam', 'Jenoff');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (250, 'Tom Rob', 'Smith');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (251, 'Tiffany', 'McDaniel');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (252, 'Freida', 'McFadden');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (253, 'Rebecca', 'Makkai');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (254, 'Janie', 'Chang');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (255, 'Amy', 'Porterfield');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (256, 'Jill', 'Santopolo');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (257, 'Kelly', 'Barnhill');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (258, 'Alex', 'North');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (259, 'Samantha', 'Shannon');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (260, 'Shannon', 'Chakraborty');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (261, 'Zoje', 'Stage');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (262, 'Emilia', 'Hart');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (263, 'Alex', 'Finlay');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (264, 'Cesca', 'Major');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (265, 'Krystle Zara', 'Appiah');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (266, 'Ann', 'Napolitano');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (267, 'Elizabeth', 'Wein');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (268, 'Harlan', 'Coben');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (269, 'Kristen', 'Loesch');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (270, 'Joyce Carol', 'Oates');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (271, 'Sarah', 'Penner');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (272, 'Matthew', 'Desmond');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (273, 'Lauren', 'Willig');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (274, 'Peter', 'Attia');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (275, 'Colleen', 'Oakley');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (276, 'Tara', 'Conklin');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (277, 'Victor', 'LaValle');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (278, 'Jeannette', 'Walls');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (279, 'Kate', 'Morton');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (280, 'Sally', 'Hepworth');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (281, 'Ella', 'Berman');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (282, 'Rachel', 'Beanland');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (283, 'Jennifer', 'Robson');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (284, 'Curtis', 'Sittenfeld');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (285, 'Disha', 'Bose');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (286, 'Admiral William H.', 'McRaven');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (287, 'Michelle Min', 'Sterling');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (288, 'Rebecca', 'Ross');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (289, 'Alexandra', 'Bracken');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (290, 'Maggie', 'Smith');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (291, 'Brendan', 'Slocumb');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (292, 'Martha', 'Hall Kelly');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (293, 'Gretchen', 'Rubin');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (294, 'David', 'Grann');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (295, 'Emily', 'Henry');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (296, 'Joshilyn', 'Jackson');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (297, 'TJ', 'Klune');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (298, 'Diane&Laura', 'Ladd&Dern');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (299, 'Mary Beth', 'Keane');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (300, 'Crystal', 'Smith Paul');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (301, 'Vanessa', 'Walters');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (302, 'Abraham', 'Verghese');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (303, 'Nana Kwame', 'Adjei-Brenyah');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (304, 'Susie', 'Luo');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (305, 'Angeline', 'Boulley');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (306, 'Carley', 'Fortune');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (307, 'Laura', 'Hankin');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (308, 'Justin', 'Cronin');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (309, 'Erica', 'Bauermeister');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (310, 'Tom', 'Hanks');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (311, 'Mikki', 'Brammer');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (312, 'R. F.', 'Kuang');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (313, 'Christina', 'Lauren');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (314, 'Christopher', 'Paolini');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (315, 'Liv', 'Constantine');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (316, 'Amy T.', 'Matthews');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (317, 'Steven', 'Rowley');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (318, 'Emma', 'Törzs');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (319, 'Meg', 'Shaffer');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (320, 'Kristin', 'Harmel');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (321, 'Lisa', 'See');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (322, 'Elliot', 'Page');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (323, 'Holly', 'Smale');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (324, 'Isabel', 'Allende');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (325, 'S. A.', 'Cosby');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (326, 'Elin', 'Hilderbrand');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (327, 'Ali', 'Hazelwood');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (328, 'Fiona', 'Davis');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (329, 'Sian', 'Gilbert');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (330, 'Ruth', 'Ware');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (331, 'Ashley', 'Audrain');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (332, 'Riley', 'Sager');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (333, 'Andrea', 'Bartz');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (334, 'Ashley', 'Poston');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (335, 'Beatriz', 'Williams');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (336, 'Michael', 'Finkel');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (337, 'Thao', 'Thai');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (338, 'Marie&Victoria', 'Benedict&Christopher Murray');
+INSERT INTO AUTHORS(author_id, firstname, lastname)
+VALUES (339, 'Elizabeth', 'Castellano');
+
+
+***
+
+
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (901, 'The Stolen Heir Duology', 'The Prisoners Throne', 2024);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (902, 'Queen of Thieves', 'Queen of Clubs, Queen of Diamonds', '2022,2024');
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (903, 'Alex Stern', 'Ninth House', 2019);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (904, 'Aaron Falk', 'The Dry, Force of Nature', '2016,2017');
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (905, 'The Housemaid', 'The Housemaid, The Housemaid is Wathing', '2022,2024');
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (906, 'The Roots of Chaos', 'The Priory of the Orange Tree', 2019);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (907, 'Amina al-Sirafi', 'To be announced', 2025);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (908, 'Letters of Enchantment', 'Ruthless Vows', 2023);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (909, 'Silver in Bone', 'The Mirror of Beasts', 2024);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (910, 'DNADuo', 'The Soulmate Equation', 2021);
+INSERT INTO SERIES(serie_id, series_name, books_in_series, year_of_publication)
+VALUES (911, 'Fractalverse', 'To Sleep in a Sea of Stars', 2020);
